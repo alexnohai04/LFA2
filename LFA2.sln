@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LFA2", "LFA2.pyproj", "{C2C8AD6B-3B9A-4D21-B0F8-52C876EE537F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2C8AD6B-3B9A-4D21-B0F8-52C876EE537F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C8AD6B-3B9A-4D21-B0F8-52C876EE537F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAF0D59A-EA6C-4DE1-AA77-79C56321F1C7}
+	EndGlobalSection
+EndGlobal
